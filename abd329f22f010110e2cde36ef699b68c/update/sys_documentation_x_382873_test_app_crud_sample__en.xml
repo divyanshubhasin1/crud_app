@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="crud_sample" language="en" table="x_382873_test_app_crud_sample">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>crud_sample</label>
+            <language>en</language>
+            <name>x_382873_test_app_crud_sample</name>
+            <plural>crud_samples</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-18 09:07:25</sys_created_on>
+            <sys_id>b744adf22f010110e2cde36ef699b6a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>crud_sample</sys_name>
+            <sys_package display_value="Test_app" source="x_382873_test_app">abd329f22f010110e2cde36ef699b68c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test_app">abd329f22f010110e2cde36ef699b68c</sys_scope>
+            <sys_update_name>sys_documentation_x_382873_test_app_crud_sample__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-18 09:07:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
