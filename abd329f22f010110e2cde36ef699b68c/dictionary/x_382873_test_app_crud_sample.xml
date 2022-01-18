@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="crud_sample" max_length="40" name="x_382873_test_app_crud_sample" type="collection">
-        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Active" max_length="40" name="u_active" type="boolean"/>
+        <element label="Email" max_length="40" name="u_email" type="string"/>
+        <element label="isApproved" max_length="40" name="u_is_approved" type="boolean"/>
+        <element label="Requested Amount" max_length="40" name="u_requested_amount" type="integer"/>
         <index name="index">
             <element name="sys_class_name"/>
         </index>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Test_app Config">aa4a293a2f010110e2cde36ef699b6a2</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Preferences</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Settings Page">8b4a293a49010110a8320542923ee2bf</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>cketv4fts00003g8yxah9e3hs</route_type>
+        <screen_type display_value="Preferences">0b4a293ab40101102d2f45e04c5702bf</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-01-18 09:33:37</sys_created_on>
+        <sys_id>4b4a293af60101105c1cd3c25795e5bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Preferences</sys_name>
+        <sys_package display_value="Test_app" source="x_382873_test_app">abd329f22f010110e2cde36ef699b68c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_app">abd329f22f010110e2cde36ef699b68c</sys_scope>
+        <sys_update_name>sys_ux_app_route_4b4a293af60101105c1cd3c25795e5bf</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-01-18 09:33:37</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=4b4a293af60101105c1cd3c25795e5bf"/>
+</record_update>
