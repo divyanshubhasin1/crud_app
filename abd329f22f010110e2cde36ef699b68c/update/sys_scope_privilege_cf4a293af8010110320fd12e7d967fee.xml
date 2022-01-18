@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>read</operation>
+        <source_scope/>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-01-18 09:33:43</sys_created_on>
+        <sys_id>cf4a293af8010110320fd12e7d967fee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sc_req_item</sys_name>
+        <sys_package display_value="Test_app" source="x_382873_test_app">abd329f22f010110e2cde36ef699b68c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_app">abd329f22f010110e2cde36ef699b68c</sys_scope>
+        <sys_update_name>sys_scope_privilege_cf4a293af8010110320fd12e7d967fee</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-01-18 09:33:43</sys_updated_on>
+        <target_name>sc_req_item</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>
